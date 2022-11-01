@@ -7,6 +7,11 @@ import { BuildConfig } from '../config/build-config.interface';
 
 export const environment: Partial<BuildConfig> = {
   production: false,
+  themes: [
+    {
+       name: 'alianza'
+    },
+   ],
 
   // Angular Universal settings
   universal: {
