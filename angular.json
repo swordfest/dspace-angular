@@ -63,7 +63,7 @@
                 "bundleName": "dspace-theme"
               },
               {
-                "input": "src/themes/dspace/styles/theme.scss",
+                "input": "src/themes/alianza/styles/theme.scss",
                 "inject": false,
                 "bundleName": "alianza-theme"
               }
