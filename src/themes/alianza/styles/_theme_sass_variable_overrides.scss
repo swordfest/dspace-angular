@@ -27,3 +27,14 @@
 // ) !default;
 //
 // $link-color: map-get($theme-colors, info) !default;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$blue:   #078BD6 !default;
+// $green:  #94BA65 !default;
+// $cyan:   #006666 !default;
+$yellow: #FFCE31 !default;
+// $red:    #CF4444 !default;
+$dark:   darken($blue, 17%) !default;

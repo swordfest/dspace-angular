@@ -1,0 +1,8 @@
+.navbar-nav {
+    ::ng-deep a.nav-link {
+      color: var(--ds-navbar-link-color);
+    }
+    ::ng-deep a.nav-link:hover {
+      color: var(--ds-navbar-link-color-hover);
+    }
+  }
